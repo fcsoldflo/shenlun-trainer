@@ -1,0 +1,9 @@
+# 原始扫描页、临时预览、打包文件不入库
+work/
+*.zip
+启动局域网分享.bat
+.dsh-office-*/
+
+申论全书_训练器_分享包/
+tools/extract_pages.py
+
